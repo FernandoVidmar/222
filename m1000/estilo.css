@@ -1,0 +1,148 @@
+html, body{
+    margin:0;
+}
+#img_fundo{
+    background:url("Capturar.PNG");
+    height:75%;
+    text-align: center;
+    width: 100%;
+    margin: 300px, 0px, 300px, 0px;
+    background-size: cover;
+}
+h1{
+    color: black;
+    padding-top: 12%;
+    font-size:45px;
+}
+h2{
+    color:black;
+    font: size 20;;
+    
+    
+}
+#ação{
+    color: white;
+    font-size: 12px;
+    border: white solid;
+    padding: 10px;
+}
+#texto{
+    height: 100%;
+    border-top: 0px;
+    text-align: center;
+    border-bottom: 300px;
+}
+#p3{
+    border-bottom: px;
+}
+#h4{
+    color: white
+}
+.icone{
+    width:51px ;
+}
+
+
+#ss1{
+    background-color:#F7f7f7F7;
+    padding:20px;
+    float: left;
+}
+
+
+.ss2{
+    background-color:#F7f7f7F7;
+    padding: 20px
+}
+#img3{
+    width: 40%;
+  
+}
+.coluna{
+    float: left;
+    padding:0 5%;
+    position:relative;
+    width: 40%;
+    
+    
+}
+.dois{
+    width:40% ;
+}
+.quatro{
+    width: 15%;
+    background-color: #F7f7f7F7;    
+}
+.tres{
+    width: 29%;
+    padding:2%
+   
+
+}
+.justificado{
+        text-align: justify;
+        margin-right: 1cm;
+}
+.centralizado{
+    text-align: center;
+}
+
+#pop{
+    text-align: center;
+    margin-bottom: 1cm;
+    margin-right: 2cm;
+}
+
+.pn{
+    margin-top: 5cm;
+}
+ 
+.aa{
+  
+    border-top:2cm ;
+}
+#ll{
+    text-align: justify;    
+    margin-left:350px;
+    width:45%;
+    margin-top: 8cm;
+}
+
+header{
+    background-color: black;
+    color:white;
+    height: 80px;
+    position: fixed;
+    width: 100%;
+    z-index:10
+}
+ 
+#logo{
+    width:60px;
+    position:absolute;
+    top:10px;
+    margin-left:5%
+    
+}
+#menu{
+    float:right;
+    margin-right: 5%;
+    list-style: none;
+    top:0px
+}
+li{
+    float: left;
+    padding:20px 10px 20px 10px
+
+}
+li:hover{
+    background-color: #006400;
+
+}
+footer{
+    background-color: #000000;
+    color: #ffffff;
+    float: left;
+    width: 100%
+    ;
+}
